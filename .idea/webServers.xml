@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="df2a57e3-f3e8-4328-a325-1a318631d8a2" name="ui-ux-challenge" url="https://ddc-web-student.cnm.edu/~jkuhn5/public_html/ui-ux-challenge/">
+        <fileTransfer rootFolder="/home/jkuhn5/public_html/ui-ux-challenge" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="3bc3efb8-4de4-4acb-9447-928f05a505cf" sshConfig="jkuhn5@ddc-web-student.cnm.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
